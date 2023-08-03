@@ -1,11 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jongsung's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=200)
+--
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjongsung5103&count_bg=%23000000&title_bg=%23FF449F&icon=&icon_color=%2300EAD3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongsungpark5103)](https://github.com/anuraghazra/github-readme-stats)
-
+--
 [![Jongsung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongsungpark&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jongsungpark5103/github-readme-stats)
-
+--
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안+녕+하+세+요+!;환+영+합+니+다+!)](https://git.io/typing-svg)
+--
 <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 사용하는 ... 
@@ -55,10 +58,7 @@
   
 ![mcdonald](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
 ![kfc](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)
-
 </details>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안+녕+하+세+요+!;환+영+합+니+다+!)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" />
 
