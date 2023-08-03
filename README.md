@@ -60,7 +60,7 @@
 ![kfc](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Thank%20to%20You%20👋&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=75&&height=200&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Thank%20You%20👋&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=75&&height=200&section=footer" />
 
 
 <!--
