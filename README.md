@@ -7,7 +7,7 @@
 --
 [![Jongsung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongsungpark&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jongsungpark5103/github-readme-stats)
 --
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안+녕+하+세+요+!;환+영+합+니+다+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안+녕+하+세+요+!;나+를+소+개+합+니+다+!)](https://git.io/typing-svg)
 --
 <details>
 <summary>
